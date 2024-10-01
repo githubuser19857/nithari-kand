@@ -1,3 +1,3 @@
 # nithari-kand
 this is my 3rd repositary
-psychology
+forensic and correctional psychology
